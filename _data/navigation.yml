@@ -3,10 +3,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Consulting"
-  # url: 
+    url: /consulting/
   - title: "Projects"
-    url: /projects-archive/
+    url: /projects/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
   - title: "Contact"
-  # url:  
+    url:  /contact/
