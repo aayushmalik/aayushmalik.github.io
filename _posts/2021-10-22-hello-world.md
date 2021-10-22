@@ -1,4 +1,4 @@
-# Hello World
+# Title of the Post
 
 ## Heading 2 Part A
 
