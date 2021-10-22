@@ -7,6 +7,6 @@ main:
   - title: "Projects"
     url: /projects-archive/
   - title: "Blog"
-    url: /year-archive/
+    url: /_posts/
   - title: "Contact"
-  # url: 
+  # url:  
