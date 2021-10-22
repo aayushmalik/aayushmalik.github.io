@@ -1,5 +1,6 @@
 ---
 excerpt: This is an excerpt for the post. It shows the preview of what is being covered in the post.
+layout: single
 ---
 ## Heading 2 Part A
 
