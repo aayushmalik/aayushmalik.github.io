@@ -1,5 +1,3 @@
-# Title of the Post
-
 ## Heading 2 Part A
 
 This is a Hello World Post containing random content generated using lorem ipsum.
