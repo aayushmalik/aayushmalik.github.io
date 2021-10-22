@@ -9,6 +9,15 @@ This is a Hello World Post containing random content generated using lorem ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent molestie lacus ac turpis dapibus, sed fermentum odio malesuada. Integer dignissim, mauris in rutrum posuere, sem libero pulvinar lorem, nec euismod dui mauris et sem. Nunc ac maximus mi. Duis mollis metus non magna scelerisque iaculis. In congue felis varius rutrum maximus. Donec vel felis in metus condimentum convallis. In in diam eu nulla elementum bibendum. Sed eget feugiat erat, vestibulum pulvinar dolor. Aenean faucibus blandit metus, interdum gravida nunc egestas sed. Curabitur id ultrices tellus, in hendrerit lectus. Duis dui risus, molestie in consequat eu, euismod in odio. Quisque in vulputate nibh, sit amet iaculis tellus. Quisque eu volutpat sem. Nunc a augue faucibus, lacinia risus a, tristique nulla. In vulputate aliquet orci ac iaculis.
 
+```python
+import pandas as pd
+import numpy as np
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+```
+
 ### Heading 3 Part B
 In volutpat laoreet sem ut venenatis. Proin eleifend facilisis metus. Donec vestibulum feugiat velit at maximus. Quisque aliquam blandit ultrices. Nunc pretium felis at tincidunt consequat. Suspendisse ornare efficitur blandit. Vestibulum eget nisi urna. Nulla dapibus pharetra ipsum vitae pharetra.
 

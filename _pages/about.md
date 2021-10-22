@@ -5,6 +5,6 @@ excerpt: "Aayush Malik is a Data Scientist."
 toc: false
 ---
 
-# About Me
+About Me
 
 My name is Aayush Malik
