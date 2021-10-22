@@ -6,7 +6,4 @@ toc: false
 layout: single
 author_profile: true
 ---
-
-About Me
-
 My name is Aayush Malik
