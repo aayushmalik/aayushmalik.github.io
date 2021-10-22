@@ -20,7 +20,7 @@ title                    : "Aayush Malik"
 title_separator          : "-"
 subtitle                 : "Data Scientist" # site tagline that appears below site title in masthead
 name                     : "Aayush Malik"
-description              : "Aayush Malik is a Data Scientist working in India."
+description              : "Aayush Malik is a Data Scientist having experience working on all the steps involved in a ML pipeline, ranging from data extraction, all the way to analysis and visualization. He works in the domains of Natural Language Processing, Geospatial Analytics, Causal Inference, and Bayesian Statistics. He works using Python. When he is not working, you can find him designing landscapes and doing gardening."
 url                      : "https://aayushmalik.github.io" # the base hostname & protocol for your site e.g. "https://aayushmalik.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aayushmalik/aayushmalik.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Aayush Malik"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist working for using data for social good."
+  bio              : "Aayush Malik is a Data Scientist having an interest in the topical domains of Natural Language Processing, Geospatial Analytics, Causal Inference, and Bayesian Statistics."
   location         : "New Delhi, INDIA"
   email            :
   links:
