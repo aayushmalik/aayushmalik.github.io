@@ -1,5 +1,5 @@
 ---
-permalink: /test/
+permalink: /
 title: "Aayush Malik"
 layout: splash
 header:
