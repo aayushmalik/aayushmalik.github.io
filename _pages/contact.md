@@ -8,4 +8,4 @@ author_profile: true
 ---
 Let's speak.
 
-My email address is aayush_malik@outlook.com
+My email address is chaayushmalik@gmail.com
