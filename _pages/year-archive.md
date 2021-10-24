@@ -2,7 +2,7 @@
 permalink: /posts/
 title: "Blog"
 toc: false
-layout: posts
+layout: archive
 author_profile: true
 ---
 ## Posts by Year
