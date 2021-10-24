@@ -6,7 +6,9 @@ tags:
     - tutorial
 ---
 
-W Edwards Deming, an American statistician who helped develop the sampling techniques which are used by the U.S. Department of the Census and the Bureau of Labor Statistics once said, "If you can't describe what you are doing as a process, you don't know what you're doing."
+W Edwards Deming, an American statistician who helped develop the sampling techniques which are used by the U.S. Department of the Census and the Bureau of Labor Statistics once said,
+
+> "If you can't describe what you are doing as a process, you don't know what you're doing."
 
 While learning Machine Learning, I was always faced by this problem of not knowing the exact sequence of steps of any data science process. There are surely excellent resources out there which explain the individual steps in sophisticated detail and manner, but there wasn't a source which could give me a bird's eye view of the entire process. After learning all the individual steps from numerous different sources, I wrote myself this process containing nine steps that I would like to share here.
 
