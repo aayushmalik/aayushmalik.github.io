@@ -1,5 +1,5 @@
 ---
-title: "Home Page"
+title: "Aayush Malik"
 layout: splash
 permalink: /splash-page/
 header:
