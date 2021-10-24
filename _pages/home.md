@@ -1,6 +1,6 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+hidden: false
 ---
 What this site is about
