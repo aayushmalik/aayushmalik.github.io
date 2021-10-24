@@ -2,8 +2,8 @@
 permalink: /about/
 title: "About Me"
 author_profile: true
-# layout: single
-# toc: false
+layout: single
+toc: false
 header:
   image: /assets/images/alina-grubnyak-unsplash.jpg
   alt: "Web of interconnected dots."
