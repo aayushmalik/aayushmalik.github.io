@@ -29,7 +29,8 @@ Many Machine Learning algorithms such as Support Vector Machines require preproc
 ## Step 5: Feature Selection
 Datasets that you will get will vary in their sizes. For answering some of the business problems, one may not require all the variables (or features). Talking to an expert is a prudent decision to take at this stage. Depending upon their judgement, you could save yourself a lot of time in deciding which features to keep and which ones to drop in the model. Another strategy could be to use functions built in the Machine Learning algorithms to see the relative importance of features in explaining the seen variability in the model. The third strategy which is very scientific is to use Applied Machine Learning. This could be counterintuitive as one might ask how is it possible to use ML when we want to use ML for our model. Principal Component Analysis can be used to extract important features from the dataset.
 
-Feature Engineering is not the same as Feature Selection.
+Note that Feature Engineering is not the same as Feature Selection.
+{: .notice--info}
 
 ## Step 6: Model Development
 This is probably the step that is most famous in the community of data scientists. Depending upon the problems, one may need to use a supervised learning algorithm or an unsupervised learning algorithm. Some algorithms are faster and some are slower. Currently, Random Forests and Gradient Boosting Random Forests are very popular in solving some of the greatest machine learning problems. If you can afford time and money, using Neural Networks using TensorFlow can also be a very good decision at this stage.
