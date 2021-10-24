@@ -6,6 +6,8 @@ main:
     url: /consulting/
   - title: "Projects"
     url: /projects/
+  - title: "CV"
+    url: /cv/
   - title: "Blog"
     url: /posts/
   - title: "Contact"
