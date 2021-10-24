@@ -5,7 +5,6 @@ tags:
     - machine-learning
     - tutorial
 ---
-# 9 Steps for Solving Data Science Problems
 
 W Edwards Deming, an American statistician who helped develop the sampling techniques which are used by the U.S. Department of the Census and the Bureau of Labor Statistics once said, "If you can't describe what you are doing as a process, you don't know what you're doing."
 
