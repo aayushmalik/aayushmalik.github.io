@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact"
+# title: "Contact"
 excerpt: "Aayush Malik is a Data Scientist."
 toc: false
 layout: single
