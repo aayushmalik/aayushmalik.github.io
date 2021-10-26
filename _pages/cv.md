@@ -7,6 +7,7 @@ layout: single
 author_profile: true
 ---
 ## Work Experience
+
 | Duration            | Job Title                | Organization                                                      |
 |---------------------|--------------------------|-------------------------------------------------------------------|
 | May 2021 - Present  | Data Science Associate   | International Initiative for Impact Evaluation, New Delhi         |
@@ -17,12 +18,14 @@ author_profile: true
 | Jul 2018 - Aug 2018 | Summer Associate         | Policy and Development Advisory Group, New Delhi                  |
 
 ## Education
+
 | Year        | Degree              | University                                | Specialization          |
 |-------------|---------------------|-------------------------------------------|-------------------------|
 | 2016 - 2018 | Master of Arts      | Tata Institute of Social Sciences, Mumbai | Social Entrepreneurship |
 | 2013 - 2016 | Bachelor of Science | University of Delhi, New Delhi            | Statistics (Honors)     |
 
 ## Professional Certification
+
 | Year | Certificate                                         | Issuing Authority |
 |------|-----------------------------------------------------|-------------------|
 | 2021 | Machine Learning Engineering for Production (MLOps) | deeplearning.ai   |
@@ -30,6 +33,7 @@ author_profile: true
 | 2020 | IBM Python Data Science                             | IBM               |
 
 ## Technical Skills
+
 | Skill                                                               | Proficiency  |
 |---------------------------------------------------------------------|--------------|
 | Python (pandas, scikit-learn, numpy, matplotlib, keras, tensorflow) | Advanced     |
@@ -39,6 +43,7 @@ author_profile: true
 | HTML and CSS                                                        | Intermediate |
 
 ## Language Skills
+
 | Language | Proficiency    | CEFR Level |
 |----------|----------------|------------|
 | English  | Upper Advanced | C2         |
