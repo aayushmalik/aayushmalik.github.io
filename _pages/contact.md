@@ -6,6 +6,4 @@ toc: false
 layout: single
 author_profile: true
 ---
-Let's speak.
-
-My email address is chaayushmalik@gmail.com
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfnte0rFZoJstS05-gaS9IQfdbudQXJi9eA_ojve_I_RqcSBQ/viewform?embedded=true" width="640" height="844" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
