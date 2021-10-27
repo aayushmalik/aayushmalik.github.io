@@ -10,9 +10,9 @@ header:
   overlay_image: /assets/images/alina-grubnyak-unsplash.jpg
   overlay_filter: 0.4
   image_caption: "Photo by Alina Grubnyak"
-excerpt: "Data Scientist, actor, traveller and an author with extensive experience in research and data analytics for public sector initiatives."
+excerpt: "Data Scientist, author, and an amateur thespian with extensive experience in research and data analytics for public sector initiatives."
 intro:
-  - excerpt: "Aayush Malik is a data scientist, actor, traveller, and an author with extensive experience in research and data analytics for public sector initiatives"
+  - excerpt: "Aayush Malik is a data scientist, author and an amateur thespian with extensive experience in research and data analytics for public sector initiatives"
 ---
 
 ## Born in 1996. Raised in a not so small town (aka New Delhi) in India. Working hard since 2013.
