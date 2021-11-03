@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "Consulting"
-  #   url: /consulting/
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Consulting"
+    url: /consulting/
+  - title: "Projects"
+    url: /projects/
   - title: "CV"
     url: /cv/
   - title: "Blog"
