@@ -23,7 +23,7 @@ Hi, my name is Aayush Malik. Currently I am working as a **Data Science Associat
 ### What have I done previously
 Previously I have worked with **Harvard School of Public Health, Tata Centre for Development at UChicago, and American India Foundation**. I am interested in the applications of **Geospatial Analytics**, Natural Language Processing, and Causal Inference for the wider benefit of international development community that is exploring novel ways of using data for social good.
 
-### This is how I am
+### Know more about me
 I call myself a **highly motivated self-starter** because I have been able to learn many of the things I use at my work on my own. This includes learning Python, German, and Geospatial Analytics. Lately, I have been exploring the space of MLOps for deployment of Machine Learning models that can be accessed by API calls.
 
 My hobbies include learning languages, taking adventure trips, and exploring the culture of old cities across the world. I am a firm believer of functional minimalism and functional design.
