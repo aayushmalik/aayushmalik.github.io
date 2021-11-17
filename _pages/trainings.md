@@ -29,8 +29,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-In order to make yourself competitive, you need to invest in yourself and your organization. I can help you do so. Get yourself or your employees trained on the following technologies.
-{: .notice--danger}
+### In order to make yourself competitive, you need to invest in yourself and your organization. I can help you do so. Let me show you how.
 
 {% include feature_row id="feature_row2" type="left" %}
 
