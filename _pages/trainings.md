@@ -5,5 +5,35 @@ excerpt: "Aayush Malik is a Data Scientist."
 toc: false
 layout: single
 author_profile: true
+feature_row2:
+  - image_path: /assets/images/earth-from-above.jpg
+    alt: "remote sensing and satellites"
+    title: "Remote Sensing and Satellite Imagery"
+    excerpt: 'Using remotely sensed data from sensors aboard `MODIS`, `SENTINEL`, and `LANDSAT` for program evaluation.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/nlp.jpg
+    alt: "natural language processing"
+    title: "Natural Language Processing"
+    excerpt: 'Using NLP libraries for generating insights on customer behaviour from tons of unstructured textual data.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/program-evaluation.jpg
+    alt: "program evaluation"
+    title: "Program Evaluation"
+    excerpt: 'Applying experimental and quasi-experimental methods to ascertain the impact of an intervention.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 List of Trainings
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="left" %}
