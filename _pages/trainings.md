@@ -3,7 +3,7 @@ permalink: /trainings/
 title: "Trainings"
 excerpt: "Aayush Malik is a Data Scientist."
 toc: false
-layout: single
+layout: splash
 author_profile: true
 feature_row2:
   - image_path: /assets/images/earth-from-above.jpg
