@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Consulting"
     url: /consulting/
-  - title: "Projects"
-    url: /projects/
+  - title: "Trainings"
+    url: /trainings/
   - title: "CV"
     url: /cv/
   - title: "Blog"
