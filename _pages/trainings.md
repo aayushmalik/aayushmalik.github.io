@@ -4,7 +4,6 @@ title: "Trainings"
 excerpt: "Aayush Malik is a Data Scientist."
 toc: false
 layout: splash
-author_profile: true
 feature_row2:
   - image_path: /assets/images/earth-from-above.jpg
     alt: "remote sensing and satellites"
@@ -30,7 +29,7 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-List of Trainings
+## List of Trainings
 
 {% include feature_row id="feature_row2" type="left" %}
 
