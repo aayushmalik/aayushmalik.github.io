@@ -2,7 +2,7 @@
 permalink: /cv/
 title: "CV"
 excerpt: "Aayush Malik is a Data Scientist."
-toc: false
+toc: true
 layout: single
 author_profile: true
 ---
