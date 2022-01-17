@@ -28,6 +28,14 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/program-evaluation.jpg
+    alt: "data visualization"
+    title: "Visual Communication"
+    excerpt: 'Communicating using graphics that are effective and explains the data in a visual way'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 ### In order to make yourself competitive, you need to invest in yourself and your organization. I can help you do so. Let me show you how.
 
@@ -36,3 +44,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="left" %}
