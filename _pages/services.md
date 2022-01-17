@@ -1,6 +1,6 @@
 ---
-permalink: /consulting/
-title: "Consulting"
+permalink: /services/
+title: "Services"
 excerpt: "Aayush Malik is a Data Scientist."
 toc: false
 layout: single
