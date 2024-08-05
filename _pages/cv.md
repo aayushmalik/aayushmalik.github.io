@@ -10,7 +10,8 @@ author_profile: true
 
 | Duration            | Job Title                | Organization                                                      |
 |---------------------|--------------------------|-------------------------------------------------------------------|
-| May 2021 - Present  | Data Science Associate   | International Initiative for Impact Evaluation, New Delhi         |
+| Jan 2023 - Present  | Solutions Architect I    | Planet Labs GmbH, New Delhi         |
+| May 2021 - Sep 2022 | Data Science Associate   | International Initiative for Impact Evaluation, New Delhi         |
 | Aug 2020 - Mar 2021 | Research Analyst         | India Research Centre, Harvard School of Public Health, New Delhi |
 | Dec 2019 - Jul 2020 | Data Analyst             | Tata Centre for Development at University of Chicago, New Delhi   |
 | Aug 2019 - Oct 2019 | Consultant               | Precision Agriculture for Development, Bhubaneswar                |
@@ -37,8 +38,9 @@ author_profile: true
 | Skill                                                               | Proficiency  |
 |---------------------------------------------------------------------|--------------|
 | Python (pandas, scikit-learn, numpy, matplotlib, keras, tensorflow) | Advanced     |
-| Google Earth Engine                                                 | Advanced     |
-| Streamlit                                                           | Advanced     |
+| QGIS                                                                | Advanced     |
+| Dash Plotly                                                         | Intermediate |
+| Streamlit                                                           | Intermediate |
 | R                                                                   | Intermediate |
 | HTML and CSS                                                        | Intermediate |
 
