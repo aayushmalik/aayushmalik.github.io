@@ -39,6 +39,7 @@ author_profile: true
 |---------------------------------------------------------------------|--------------|
 | Python (pandas, scikit-learn, numpy, matplotlib, keras, tensorflow) | Advanced     |
 | QGIS                                                                | Advanced     |
+| ChatGPT                                                             | Advanced     |
 | Dash Plotly                                                         | Intermediate |
 | Streamlit                                                           | Intermediate |
 | R                                                                   | Intermediate |
