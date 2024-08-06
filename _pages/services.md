@@ -15,7 +15,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/program-evaluation.jpg
     alt: "data-based decision making"
-    title: "Data-based Decision Making"
+    title: "Data-driven Decision Making"
     excerpt: 'Applying statistical inference methods to make decisions to increase efficiency using available data.'
     url: "#test-link"
     btn_label: "Read More"
