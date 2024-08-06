@@ -6,4 +6,4 @@ toc: false
 layout: splash
 ---
 
-### In order to make yourself competitive, you need to invest in yourself and your organization. I can help you do so. Let me show you how.
+### <a href="https://chaayushmalik.medium.com/" target="_blank">Medium Blog</a>
