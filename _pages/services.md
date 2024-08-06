@@ -13,10 +13,10 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/nlp.jpg
-    alt: "natural language processing"
-    title: "Natural Language Processing"
-    excerpt: 'Using NLP libraries for generating insights on customer behaviour from tons of unstructured textual data.'
+  - image_path: /assets/images/program-evaluation.jpg
+    alt: "data-based decision making"
+    title: "Data-based Decision Making"
+    excerpt: 'Applying statistical inference methods to make decisions to increase efficiency using available data.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -39,10 +39,11 @@ feature_row5:
 ---
 ### In order to make yourself competitive, you need to invest in yourself and your organization. I can help you do so. Let me show you how.
 
-{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
