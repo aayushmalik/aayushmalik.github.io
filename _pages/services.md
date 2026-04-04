@@ -12,14 +12,6 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/program-evaluation.jpg
-    alt: "program evaluation"
-    title: "Program Evaluation"
-    excerpt: 'Applying experimental and quasi-experimental methods to ascertain the impact of an intervention.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row1:
   - image_path: /assets/images/earth-from-above.jpg
     alt: "product management"
@@ -44,5 +36,3 @@ feature_row5:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
-
-{% include feature_row id="feature_row4" type="left" %}
