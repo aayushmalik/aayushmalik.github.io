@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "CV"
-excerpt: "Aayush Malik is a Data Scientist."
+excerpt: "Aayush Malik, Product Manager"
 layout: single
 toc: true
 author_profile: true
@@ -10,7 +10,9 @@ author_profile: true
 
 | Duration            | Job Title                | Organization                                                      |
 |---------------------|--------------------------|-------------------------------------------------------------------|
-| Jan 2023 - Present  | Solutions Architect I    | Planet Labs GmbH, New Delhi         |
+| Oct 2025 - Present  | Product Manager, Tasking | Planet Labs GmbH, Berlin                                          |
+| Feb 2025 - Aug 2025 | Product Deployment Manager| ConceptBoard GmbH, Stuttgart                                     |
+| Jan 2023 - Oct 2024 | Solutions Architect I    | Planet Labs GmbH, New Delhi                                       |
 | May 2021 - Sep 2022 | Data Science Associate   | International Initiative for Impact Evaluation, New Delhi         |
 | Aug 2020 - Mar 2021 | Research Analyst         | India Research Centre, Harvard School of Public Health, New Delhi |
 | Dec 2019 - Jul 2020 | Data Analyst             | Tata Centre for Development at University of Chicago, New Delhi   |
