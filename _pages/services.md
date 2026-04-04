@@ -21,7 +21,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/program-evaluation.jpg
+  - image_path: /assets/images/visual_communication.jpg
     alt: "data visualization"
     title: "Visual Communication"
     excerpt: 'Communicating using graphics that are effective and explains the data in a visual way'
