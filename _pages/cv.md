@@ -31,6 +31,7 @@ author_profile: true
 
 | Year | Certificate                                         | Issuing Authority |
 |------|-----------------------------------------------------|-------------------|
+| 2025 | Aha Product Management Professional Certificate     | Aha! LinkedIn   |
 | 2021 | Machine Learning Engineering for Production (MLOps) | deeplearning.ai   |
 | 2021 | German Language Certificate Level C1                | Goethe Institut   |
 | 2020 | IBM Python Data Science                             | IBM               |
@@ -39,9 +40,9 @@ author_profile: true
 
 | Skill                                                               | Proficiency  |
 |---------------------------------------------------------------------|--------------|
+| ChatGPT, Claude, and Gemini                                         | Advanced     |
 | Python (pandas, scikit-learn, numpy, matplotlib, keras, tensorflow) | Advanced     |
 | QGIS                                                                | Advanced     |
-| ChatGPT                                                             | Advanced     |
 | Dash Plotly                                                         | Intermediate |
 | Streamlit                                                           | Intermediate |
 | R                                                                   | Intermediate |
