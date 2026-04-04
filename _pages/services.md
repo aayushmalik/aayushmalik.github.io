@@ -1,17 +1,9 @@
 ---
 permalink: /services/
 title: "Services"
-excerpt: "Aayush Malik is a Data Scientist."
+excerpt: "Aayush Malik is a Product Manager"
 toc: false
 layout: splash
-feature_row2:
-  - image_path: /assets/images/earth-from-above.jpg
-    alt: "remote sensing and satellites"
-    title: "Remote Sensing and Satellite Imagery"
-    excerpt: 'Using remotely sensed data from sensors aboard `MODIS`, `SENTINEL`, and `LANDSAT` for program evaluation.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/program-evaluation.jpg
     alt: "data-based decision making"
@@ -28,6 +20,14 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row1:
+  - image_path: /assets/images/earth-from-above.jpg
+    alt: "product management"
+    title: "Product Management"
+    excerpt: 'Creating products that delight customers and make it easy for them to do the jobs they want to do.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/program-evaluation.jpg
     alt: "data visualization"
@@ -39,11 +39,10 @@ feature_row5:
 ---
 ### In order to make yourself competitive, you need to invest in yourself and your organization. I can help you do so. Let me show you how.
 
+{% include feature_row id="feature_row1" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
 
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row4" type="right" %}
+{% include feature_row id="feature_row4" type="left" %}
