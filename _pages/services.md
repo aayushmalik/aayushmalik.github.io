@@ -33,6 +33,6 @@ feature_row5:
 
 {% include feature_row id="feature_row1" type="right" %}
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row5" type="left" %}
 
-{% include feature_row id="feature_row5" type="right" %}
+{% include feature_row id="feature_row3" type="right" %}
